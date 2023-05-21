@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        
+        h1 {
+            color: #333;
+        }
+        
+        p {
+            margin-bottom: 20px;
+        }
+        
+        ul {
+            margin-left: 30px;
+            margin-bottom: 20px;
+        }
+        
+        li {
+            margin-bottom: 10px;
+        }
+        
+        strong {
+            font-weight: bold;
+        }
+        
+        em {
+            font-style: italic;
+        }
